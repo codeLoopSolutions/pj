@@ -1,0 +1,9 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -94,6 +94,7 @@
+         <div class="container ">
+             <div class="row">
+                 <div class="col-md-12 col-sm-12">
++                   <h1 class="text-capitalize">Bienvenido a la pagina de la Pastoral de Juventud <strong><span class="themecolor"></span></strong></h1>
+                <p class="lead">We are a Web Development Company with <strong>years of experience</strong> and with <strong>extraordinary people</strong></p>
+                 <button class="btn btn-primary" id="downloadbt">Download Now</button>
+                
